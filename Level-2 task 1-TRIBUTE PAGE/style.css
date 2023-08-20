@@ -1,0 +1,76 @@
+body {
+	background-color: rgba(1, 97, 1, 0.6);
+	color: white;
+	font-family: 'poppins', sans-serif';
+
+}
+
+header {
+	font-family: 'poppins', sans-serif';
+ 	border-color: white;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 10%;
+	margin-top: 15px;
+	margin-left: 80px;
+	margin-right: 80px;
+	text-align: center;
+    text-transform: uppercase;
+}
+
+main{
+	margin-left: 60px;
+	margin-right: 60px;
+}
+
+.image {
+	width: 250px;
+	border-radius: 30%;
+	padding: 20px;
+	margin-left: 560px;
+}
+
+#quote {
+
+	margin: 5% text-align: center;
+	font-size: 1.1em;
+	font-weight: 400;
+	font-style: oblique;
+	border-color: white;
+	border-width: 2px;
+	border-style: solid;
+	border-right: 0px;
+	border-left: 0px;
+
+}
+
+#basic-details {
+	margin-left: 560px;
+	margin-top: 20px;
+}
+
+#essay-text {
+	margin-left: 40px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+
+.passage {
+	font-size: 14px;
+}
+
+#first-letter {
+	font-size: 36px;
+}
+
+.credits {
+	font-family: 'Lobster', cursive;
+	margin-top: 30px;
+	border-color: white;
+	border-width: 2px;
+	border-style: solid;
+	border-bottom: 0px;
+	border-right: 0px;
+	border-left: 0px;
+	border-radius: 50%;
+}
